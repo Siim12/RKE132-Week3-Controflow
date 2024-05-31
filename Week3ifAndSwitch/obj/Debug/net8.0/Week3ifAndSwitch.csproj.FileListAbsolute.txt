@@ -1,0 +1,4 @@
+C:\Users\PC2023\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net8.0\Week3ifAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC2023\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net8.0\Week3ifAndSwitch.AssemblyInfoInputs.cache
+C:\Users\PC2023\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net8.0\Week3ifAndSwitch.AssemblyInfo.cs
+C:\Users\PC2023\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net8.0\Week3ifAndSwitch.csproj.CoreCompileInputs.cache
